@@ -155,31 +155,21 @@ height: 100%;
     #contactForm button:hover {
       background-color: #0056b3;
     }
-	.country{
-		width:40%;
+	.country,.temple,.beach{
+		width:28%;
 		height:300px;
 		float:left;
 		background-color:white;
 		border:1px;
 		border-radius:20px;
 		margin-right:20px;
+		margin-bottom:10px;
 	}
-	.temple{
-		width:40%;
-		height:300px;
-		float:left;
-		background-color:white;
-		border:1px;
-		border-radius:20px;
-		margin-right:20px;
+	.country,.temple,.beach img{
+		padding:20px;
 	}
-	.beach{
-		width:40%;
-		height:300px;
-		float:left;
-		background-color:white;
-		border:1px;
-		border-radius:20px;
-		margin-right:20px;
+	.country,.temple,.beach h2,p{
+		text-align:center;
 	}
+	
 	
