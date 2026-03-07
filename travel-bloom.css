@@ -1,0 +1,185 @@
+body {
+background-image:url('image1.jpeg');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  
+  nav ul {
+    list-style-type: none;
+    /* padding: 0; */
+	margin-top:10px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+	text-align:center;
+  }
+.top-nav{
+width:33%;
+height:50px;
+}
+.top-nav3{
+border-radius:30px;
+background-color:white;
+height: 100%;
+    margin: 5px 5px 0px 0px
+}
+  
+  button {
+    padding: 7px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+	border-radius: 15px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  .searchinput{
+      height: 95%;
+    border: 0px;
+    padding: 20px;
+    margin: 5px 5px 5px 15px;
+  }
+  .logoimg{
+  float:left;
+  }
+  .logotext{
+  float:left;
+  color:white;
+  }
+  .box{
+  height:120px;
+  width:100%;
+  }
+  .box1{
+  height:500px;
+  width:10%;
+  float:left;
+  
+  }
+  .box2{
+  height:500px;
+  width:60%;
+  float:left;
+  }
+  .box3{
+  height:auto;
+  width:60%;
+  }
+  .box3 p {
+  font-size:70px;
+  color:white;
+  
+  }
+   .box4{
+  height:auto;
+  width:70%;
+  color:white;
+  margin-top:20px;
+  }
+  .icon{
+  margin-top:10px;
+  margin-left:10px;
+  color:white;
+  
+  }
+    .box5{
+  width:100%;
+  height:auto;
+  margin-top:20px;
+  }
+    .box6{
+  height:100px;
+  width:22.5%;
+  color:white;
+  margin-top:20px;
+  font-size:20px;
+  float:left;
+  }
+  .team{
+      margin-top: 72px;
+    font-size: 70px;
+	}
+	.box7{
+  height:auto;
+  width:50%;
+  margin-top:150px;
+  color:white;
+  float:left;
+  
+  }
+  background-color
+  .heading{
+  font-size:100px;
+  }
+  
+    /* Some basic styling for demonstration purposes */
+    #contactForm {
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    #contactForm input,
+    #contactForm textarea {
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 8px;
+    }
+    #contactForm button {
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    #contactForm button:hover {
+      background-color: #0056b3;
+    }
+	.country{
+		width:40%;
+		height:300px;
+		float:left;
+		background-color:white;
+		border:1px;
+		border-radius:20px;
+		margin-right:20px;
+	}
+	.temple{
+		width:40%;
+		height:300px;
+		float:left;
+		background-color:white;
+		border:1px;
+		border-radius:20px;
+		margin-right:20px;
+	}
+	.beach{
+		width:40%;
+		height:300px;
+		float:left;
+		background-color:white;
+		border:1px;
+		border-radius:20px;
+		margin-right:20px;
+	}
+	
